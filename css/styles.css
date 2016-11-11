@@ -1,0 +1,27 @@
+.post1 {
+  font-style: oblique;
+  color: pink;
+}
+
+.post2 {
+  font-style:normal;
+  color: blue;
+}
+
+.post3 {
+  font-weight: bolder;
+  color: green;
+}
+
+h1 {
+  color: purple;
+  font-style:italic;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  width: 50%;
+}
